@@ -4,7 +4,8 @@
 
 效果:
 
- ![IMG_4610](Res/IMG_4610.png)
+ <img src="Res/IMG_4610.png" style="width:320px;height:570px"/>
+
 
 流程图如下：
 
